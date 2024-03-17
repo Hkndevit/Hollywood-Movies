@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  transition: all 0.1s ease;
+}
+
+:root {
+  font-size: 62.5%;
+  --main-color: orangered;
+  --bg-color: #ffffff;
+}
+
+img,
+svg {
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  padding-top: 8vw;
+  color: var(--main-color);
+  letter-spacing: -2px;
+  line-height: 95%;
+  font-weight: 900;
+  text-transform: uppercase;
+  position: relative;
+  max-width: 12ch;
+}
+
+h2 {
+  color: var(--main-color);
+  font-size: 2.8rem;
+}

@@ -1,0 +1,7 @@
+.stars_wrapper {
+  display: flex;
+}
+
+.stars_wrapper img {
+  width: 1.5vw;
+}
