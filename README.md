@@ -7,9 +7,10 @@ Built with
 * Api Database
 
 # Links
-<a href=" ">DESIGN-CIRTIQUE WEBSITE</a>.
+<a href=" ">Hollywood Movies</a>.
 
 # Screenshot-Image
 
-![image](https://hollywood-movies-tan.vercel.app/)
+![image](https://github.com/Hkndevit/Hollywood-Movies/assets/153287802/16066b47-d46d-42a4-83e3-69ff2976c6b1)
+
 
